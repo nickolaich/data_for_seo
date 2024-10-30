@@ -31,7 +31,7 @@ defmodule DataForSeo.MixProject do
   defp deps do
     [
       {:bypass, "~> 2.0", only: :test},
-      {:ecto_sql, "~> 3.11.0"},
+      {:ecto_sql, "~> 3.12.0"},
       {:ex_doc, ">= 0.0.0", only: [:dev, :docs]},
       {:finch, "~> 0.13"},
       {:jason, "~> 1.0"},

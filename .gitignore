@@ -23,3 +23,5 @@ erl_crash.dump
 data_for_seo-*.tar
 
 .idea/
+.DS_Store
+test/.DS_Store
